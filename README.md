@@ -31,7 +31,7 @@
     <img align='center' alt='Nvidia' src='https://img.shields.io/badge/Lenovo-Yoga_Slim_7_Pro-999999?style=for-the-badge&logo=lenovo&logoColor=white' />
 </div><br/>
 
-Passionate about technology, working in the area since 2005 and currently living in 🇯🇵 Japan.
+Passionate about technology, working in the area since 2005. I am from 🇧🇷 Brazil but currently living in 🇯🇵 Japan.
 <br/>
 
 Always looking for knowledge and learning new technologies.
