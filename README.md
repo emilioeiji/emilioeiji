@@ -1,4 +1,4 @@
-### Hi! I am Emilio Eiji 😎, welcome to my github. 
+### Hi! I am Emilio Eiji 😎, this is my github. 
 
 [![WebSite](https://img.shields.io/badge/emilioeiji.com.br-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://emilioeiji.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emilioeiji/)
