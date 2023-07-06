@@ -34,7 +34,7 @@
 Passionate about technology, working in the area since 2005. I am from 🇧🇷 Brazil but currently living in 🇯🇵 Japan.
 <br/>
 
-Always looking for knowledge and learning new technologies.
+I'm always looking for knowledge and learning new technologies.
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Miyuki-E4405F?style=for-the-badge&logo=undertale&logoColor=white)](https://www.instagram.com/aida.miyuki/)
